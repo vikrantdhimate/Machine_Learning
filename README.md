@@ -28,3 +28,19 @@
 - Integrate with twitter APIs to stream live tweets
 - Scrape data from website
 - Can we understand the sentiments from customer reviews?
+
+
+Datasets:
+
+1. https://archive.ics.uci.edu/ml/datasets.php
+2. www.kaggle.com
+
+Video Course:
+
+1. https://www.coursera.org/learn/machine-learning
+2. https://www.coursera.org/specializations/machine-learning
+
+Books:
+
+1. https://www.amazon.in/Business-Analytics-Science-Data-Driven-Decision-ebook/dp/B075XLZY23
+2. https://www.amazon.in/gp/product/8126579900
