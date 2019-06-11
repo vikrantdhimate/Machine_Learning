@@ -1,0 +1,13 @@
+Data preprocessing 
+
+
+from sklearn.preprocessing import inputer
+inputer = Imputer(missing_values='NaN', strategy='mean', axis= 0)   #default is mean and 0 is column
+inputer = inputer.fit(X[:,1:3])   ## right side upper bound is excluded
+X[:,1:3] = inputer.transform(:,1:3)
+
+
+#Deal with categorical data
+from sklearn.preprocessing import LabelEncoder
+label_encoder_x = LabelEncoder()
+X[:,0] = label_encoder_x.fit_transform(X[:,0])
